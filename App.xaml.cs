@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPFShapes
+namespace WPF_Graphics_Shapes
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
